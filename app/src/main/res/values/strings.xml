@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Orders</string>
+    <string name="meal">What do you want on your burger ?</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="go_back">Go Back</string>
+    <string name="welcome_to_third_activity">Welcome to Third Activity!</string>
+</resources>
